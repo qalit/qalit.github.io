@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://qalit.github.io/atom.xml" rel="self"/>
   <link href="http://qalit.github.io/"/>
-  <updated>2014-02-20T20:42:18+07:00</updated>
+  <updated>2014-02-20T20:58:00+07:00</updated>
   <id>http://qalit.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Coba Post Blog Github Dengan Octopress]]></title>
+    <title type="html"><![CDATA[Coba Post Blog Github dengan Octopress]]></title>
     <link href="http://qalit.github.io/blog/2014/02/20/coba-post-blog-github-dengan-octopress/"/>
     <updated>2014-02-20T20:35:17+07:00</updated>
     <id>http://qalit.github.io/blog/2014/02/20/coba-post-blog-github-dengan-octopress</id>
