@@ -4,7 +4,7 @@
   <title><![CDATA[Category: linux,urxvt,console | Blog Qalit]]></title>
   <link href="http://qalit.github.io/blog/categories/linux-urxvt-console/atom.xml" rel="self"/>
   <link href="http://qalit.github.io/"/>
-  <updated>2014-02-20T23:15:45+07:00</updated>
+  <updated>2014-02-20T23:17:51+07:00</updated>
   <id>http://qalit.github.io/</id>
   <author>
     <name><![CDATA[Al Qalit]]></name>
@@ -20,7 +20,8 @@
     <id>http://qalit.github.io/blog/2014/02/20/transparent-terminal-emulator-urxvt</id>
     <content type="html"><![CDATA[<p>Tambahkan baris berikut pada .Xdefault</p>
 
-<p>urxvt<em>foreground: #f2f2f2
+<p>{% codeblock %}
+urxvt<em>foreground: #f2f2f2
 urxvt</em>background: #101010
 urxvt<em>color0: #101010
 urxvt</em>color1: #f13a21
@@ -42,7 +43,8 @@ urxvt<em>transparent: true
 urxvt</em>shading: 50
 urxvt<em>fading: 50
 urxvt</em>font: xft:Bitstream\ Vera\ Sans\ Mono:style=roman:pixelsize=11
-urxvt*scrollBar: false</p>
+urxvt*scrollBar: false
+{$ endcodeblock %}</p>
 
 <p>Sekian
 Gambar nyusul :)</p>
