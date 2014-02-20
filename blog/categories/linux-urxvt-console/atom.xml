@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: linux,urxvt,console | Blog Qalit]]></title>
+  <link href="http://qalit.github.io/blog/categories/linux-urxvt-console/atom.xml" rel="self"/>
+  <link href="http://qalit.github.io/"/>
+  <updated>2014-02-20T23:03:13+07:00</updated>
+  <id>http://qalit.github.io/</id>
+  <author>
+    <name><![CDATA[Al Qalit]]></name>
+    <email><![CDATA[qal.smith@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Transparent Terminal Emulator urxvt]]></title>
+    <link href="http://qalit.github.io/blog/2014/02/20/transparent-terminal-emulator-urxvt/"/>
+    <updated>2014-02-20T22:51:33+07:00</updated>
+    <id>http://qalit.github.io/blog/2014/02/20/transparent-terminal-emulator-urxvt</id>
+    <content type="html"><![CDATA[<p>Tambahkan baris berikut pada .Xdefault</p>
+
+<p>{% gist 8159788 %}</p>
+
+<p>Sekian
+Gambar nyusul :)</p>
+]]></content>
+  </entry>
+  
+</feed>
