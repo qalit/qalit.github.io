@@ -2,15 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://qalit.github.io/blog/2014/02/20/coba-post-blog-github-dengan-octopress/</loc>
-        <lastmod>2014-02-21T19:11:14+07:00</lastmod>
+        <lastmod>2014-03-11T23:38:04+07:00</lastmod>
     </url>
     <url>
         <loc>http://qalit.github.io/blog/2014/02/20/transparent-terminal-emulator-urxvt/</loc>
-        <lastmod>2014-02-21T19:11:14+07:00</lastmod>
+        <lastmod>2014-03-11T23:40:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://qalit.github.io/</loc>
-        <lastmod>2014-02-21T19:11:14+07:00</lastmod>
+        <lastmod>2014-03-11T23:40:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://qalit.github.io/feed/index.xml</loc>
@@ -18,11 +18,11 @@
     </url>
     <url>
         <loc>http://qalit.github.io/blog/</loc>
-        <lastmod>2014-02-21T19:11:14+07:00</lastmod>
+        <lastmod>2014-03-11T23:40:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://qalit.github.io/blog/archives/</loc>
-        <lastmod>2014-02-21T19:11:14+07:00</lastmod>
+        <lastmod>2014-03-11T23:40:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://qalit.github.io/robots.txt</loc>
@@ -30,10 +30,10 @@
     </url>
     <url>
         <loc>http://qalit.github.io/about/</loc>
-        <lastmod>2014-02-21T19:38:26+07:00</lastmod>
+        <lastmod>2014-03-11T23:38:04+07:00</lastmod>
     </url>
     <url>
         <loc>http://qalit.github.io/about/page.html</loc>
-        <lastmod>2014-02-21T19:11:14+07:00</lastmod>
+        <lastmod>2014-03-11T23:38:04+07:00</lastmod>
     </url>
 </urlset>
